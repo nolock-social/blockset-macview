@@ -1,0 +1,33 @@
+{
+  "originHash" : "33ad74cf0b0b7c390472d8db950945c7f5c25920b3eac995d55ba495fc98b97d",
+  "pins" : [
+    {
+      "identity" : "blockset-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/nolock-social/blockset-swift",
+      "state" : {
+        "branch" : "main",
+        "revision" : "903417d76dcb8fb987a3da33e9e6bd8a3e665837"
+      }
+    },
+    {
+      "identity" : "swift-asn1",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-asn1.git",
+      "state" : {
+        "revision" : "ae33e5941bb88d88538d0a6b19ca0b01e6c76dcf",
+        "version" : "1.3.1"
+      }
+    },
+    {
+      "identity" : "swift-crypto",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-crypto.git",
+      "state" : {
+        "revision" : "a6ce32a18b81b04ce7e897d1d98df6eb2da04786",
+        "version" : "3.12.2"
+      }
+    }
+  ],
+  "version" : 3
+}
